@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "AMOC-SHIFT"
+  avatar : "/assets/images/amoc-shift-logo-draft.jpg"
+  bio    : "Southern Hemisphere Impacts of a Future Tipping Point"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
