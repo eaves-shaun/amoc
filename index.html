@@ -1,7 +1,35 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+title: "Welcome"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/hero.jpg
+  actions:
+    - label: "About"
+      url: "/about/"
+    - label: "Blog"
+      url: "/blog/"
+excerpt: "Exploring Earth, Climate, and Change"
+intro:
+  - excerpt: "This site shares research, teaching, and fieldwork in Earth and environmental science."
+feature_row:
+  - image_path: /assets/images/feature1.jpg
+    alt: "Research"
+    title: "Research"
+    excerpt: "Projects and collaborations in paleoclimate and cryosphere science."
+    url: "/research/"
+  - image_path: /assets/images/feature2.jpg
+    alt: "Teaching"
+    title: "Teaching"
+    excerpt: "Courses, field trips, and resources for students."
+    url: "/teaching/"
+  - image_path: /assets/images/feature3.jpg
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Posts and updates from ongoing work."
+    url: "/blog/"
 ---
+
+{% include feature_row %}
