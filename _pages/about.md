@@ -2,7 +2,9 @@
 permalink: /about/
 title: "About"
 ---
+AMOC-SHIFT is a scientific research project seeking to better constrain the impacts to Southern Hemisphere climate and cryosphere from a future weakening of the Atlantic Meridional Overturning Circulation (AMOC).
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The AMOC is a major ocean current system that helps regulate global climate—could reshape climate patterns in the Southern Hemisphere and affect the stability of the Antarctic Ice Sheet. Evidence suggests AMOC is weakening and could cross a tipping point in the future, however most existing studies focus on Northern Hemisphere impacts. This project addresses a major gap by providing the first detailed modelling of Southern Hemisphere climate and cryosphere responses to AMOC collapse.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Using cutting-edge climate and ice sheet models, we will simulate how AMOC collapse influences temperature, wind patterns, ocean currents, and sea level, with a particular focus on heat transport to Antarctica. It will also assess how these changes affect the Antarctic Ice Sheet’s long-term mass balance and potential contributions to sea-level rise.
+
