@@ -2,12 +2,11 @@
 title: "What is a tipping point?"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
   - FAQ
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - general
+  - tipping-points
+  - definition
 ---
 
 A **tipping point** is a critical threshold at which a system abruptly shifts from one stable state to another. Although the forcing may be gradual, positive feedbacks can cause rapid change once the threshold is crossed, and the resulting impacts are often hard or impossible to reverse on human timescales.
