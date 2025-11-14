@@ -40,21 +40,21 @@ title: "Team"
 
 <div class="team-card">
   <img src="/assets/images/team/shaun.jpg" class="team-photo">
-  <div class="team-name">Dr Shaun Eaves</div>
+  <div class="team-name">Shaun Eaves</div>
   <div class="team-role">PI; Glaciology/Climatology</div>
   <p>Researching Southern Hemisphere climate variability, palaeoclimate, and cryosphere–ocean feedbacks.</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/postdoc.jpg" class="team-photo">
-  <div class="team-name">Dr David Hutchinson</div>
+  <div class="team-name">David Hutchinson</div>
   <div class="team-role">Climate modelling</div>
   <p>Works on supercooling, AMOC–AIS linkages, and freshwater hosing experiments.</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/postdoc.jpg" class="team-photo">
-  <div class="team-name">Dr Dan Lowry</div>
+  <div class="team-name">Dan Lowry</div>
   <div class="team-role">Ice sheet modelling</div>
   <p>Works on supercooling, AMOC–AIS linkages, and freshwater hosing experiments.</p>
 </div>
