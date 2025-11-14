@@ -1,10 +1,7 @@
 ---
 permalink: /team/
-title: "Team"
+title: "Project Team"
 ---
-
-# Meet the Team
-
 <style>
 .team-grid {
   display: grid;
