@@ -43,49 +43,49 @@ title: "Project Team"
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/postdoc.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">David Hutchinson</div>
   <div class="team-role">Climate modelling</div>
   <p>Works on supercooling, AMOC–AIS linkages, and freshwater hosing experiments.</p>
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/postdoc.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">Dan Lowry</div>
   <div class="team-role">Ice sheet modelling</div>
   <p>Antarctic ice sheet response to climate forcing</p>
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">Kyle Clem</div>
   <div class="team-role">Meteorology</div>
   <p>Atmospheric dynamics; tropical-polar teleconnections</p>
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">Rene van Westen</div>
   <div class="team-role">Climate physics</div>
   <p>Climate dynamics; AMOC specialist</p>
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">Stefan Jendersie</div>
   <div class="team-role">Ocean modelling</div>
   <p>Physics based ocean modelling; Southern Ocean dynamics</p>
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">Vacancy</div>
   <div class="team-role">PhD Candidate</div>
   <p>TBC</p>
 </div>
 
 <div class="team-card">
-  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <img src="{{ '/assets/images/team/anonymous.png' | relative_url }}">
   <div class="team-name">Vacancy</div>
   <div class="team-role">PhD Candidate</div>
   <p>TBC</p>
