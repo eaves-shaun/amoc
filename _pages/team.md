@@ -39,7 +39,7 @@ title: "Team"
 <div class="team-grid">
 
 <div class="team-card">
-  <img src="/assets/images/team/shaun.jpg" class="team-photo">
+  <img src="/assets/images/shaun.jpg" class="team-photo">
   <div class="team-name">Shaun Eaves</div>
   <div class="team-role">PI; Glaciology/Climatology</div>
   <p>Researching Southern Hemisphere climate variability, palaeoclimate, and cryosphere–ocean feedbacks.</p>
