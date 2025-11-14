@@ -1,33 +1,100 @@
 ---
-layout: single
-title: Meet the Team
-classes: wide
+permalink: /team/
+title: "Team"
 ---
 
 # Meet the Team
 
-<div class="grid__wrapper">
+<style>
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+.team-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  background: #fafafa;
+}
+.team-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+.team-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+.team-role {
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+</style>
 
-<div class="grid__item card">
-  <img src="/assets/images/team/shaun.jpg" alt="" class="card__image">
-  <h3 class="card__title">Dr Shaun Eaves</h3>
-  <p class="card__subtitle">PI — Climate Dynamics</p>
-  <p>Researching Southern Hemisphere climate variability, palaeoclimate, and cryosphere–ocean interactions.</p>
+<div class="team-grid">
+
+<div class="team-card">
+  <img src="/assets/images/team/shaun.jpg" class="team-photo">
+  <div class="team-name">Dr Shaun Eaves</div>
+  <div class="team-role">PI; Glaciology/Climatology</div>
+  <p>Researching Southern Hemisphere climate variability, palaeoclimate, and cryosphere–ocean feedbacks.</p>
 </div>
 
-<div class="grid__item card">
-  <img src="/assets/images/team/postdoc.jpg" alt="" class="card__image">
-  <h3 class="card__title">Dr Jane Doe</h3>
-  <p class="card__subtitle">Postdoc — Ice Sheet Modelling</p>
-  <p>Works on freshwater hosing, AMOC variability, and supercooling processes.</p>
+<div class="team-card">
+  <img src="/assets/images/team/postdoc.jpg" class="team-photo">
+  <div class="team-name">Dr David Hutchinson</div>
+  <div class="team-role">Climate modelling</div>
+  <p>Works on supercooling, AMOC–AIS linkages, and freshwater hosing experiments.</p>
 </div>
 
-<div class="grid__item card">
-  <img src="/assets/images/team/phd.jpg" alt="" class="card__image">
-  <h3 class="card__title">Alex Smith</h3>
-  <p class="card__subtitle">PhD Candidate</p>
-  <p>Proxy reconstructions of climate variability across the SH mid-latitudes.</p>
+<div class="team-card">
+  <img src="/assets/images/team/postdoc.jpg" class="team-photo">
+  <div class="team-name">Dr Dan Lowry</div>
+  <div class="team-role">Ice sheet modelling</div>
+  <p>Works on supercooling, AMOC–AIS linkages, and freshwater hosing experiments.</p>
 </div>
 
+<div class="team-card">
+  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <div class="team-name">Kyle Clem</div>
+  <div class="team-role">Meteorology</div>
+  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
 </div>
+
+<div class="team-card">
+  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <div class="team-name">Rene van Westen</div>
+  <div class="team-role">Climate physics</div>
+  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+</div>
+
+<div class="team-card">
+  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <div class="team-name">Stefan Jendersie</div>
+  <div class="team-role">PhD Candidate</div>
+  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+</div>
+
+<div class="team-card">
+  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <div class="team-name">Vacancy</div>
+  <div class="team-role">PhD Candidate</div>
+  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+</div>
+
+<div class="team-card">
+  <img src="/assets/images/team/phd.jpg" class="team-photo">
+  <div class="team-name">Vacancy</div>
+  <div class="team-role">PhD Candidate</div>
+  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+</div>
+
+
+</div>
+
 
