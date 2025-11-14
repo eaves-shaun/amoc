@@ -4,7 +4,7 @@ title: "Outputs"
 ---
 
 ## Project outputs
-*Content will appear from mid-2026*
+*Content will appear from mid-2026. In the meantime, please see our [blog](blog.md) or the related content below*
 
 
 
