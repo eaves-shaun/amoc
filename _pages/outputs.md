@@ -12,7 +12,7 @@ title: "Outputs"
 <details markdown="1">
   <summary><strong>Media</strong></summary>
 
-  - [Weakening or collapse of a major Atlantic current has disrupted NZ’s climate in the past – and could do so again (The Conversation, June 2024)](https://theconversation.com/weakening-or-collapse-of-a-major-atlantic-current-has-disrupted-nzs-climate-in-the-past-and-could-do-so-again-231266)
+  - [Weakening or collapse of a major Atlantic current has disrupted NZ’s climate in the past – and could do so again](https://theconversation.com/weakening-or-collapse-of-a-major-atlantic-current-has-disrupted-nzs-climate-in-the-past-and-could-do-so-again-231266) (The Conversation, June 2024)
 
 </details>
 
