@@ -39,7 +39,7 @@ title: "Project Team"
   <img src="{{ '/assets/images/team/shaun.jpg' | relative_url }}">
   <div class="team-name">Shaun Eaves</div>
   <div class="team-role">PI; Glaciology/Climatology</div>
-  <p>Researching Southern Hemisphere climate variability, palaeoclimate, and cryosphere–ocean feedbacks.</p>
+  <p>PI; Southern Hemisphere climate-cryosphere–ocean interactions.</p>
 </div>
 
 <div class="team-card">
