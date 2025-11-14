@@ -56,42 +56,42 @@ title: "Team"
   <img src="/assets/images/team/postdoc.jpg" class="team-photo">
   <div class="team-name">Dan Lowry</div>
   <div class="team-role">Ice sheet modelling</div>
-  <p>Works on supercooling, AMOC–AIS linkages, and freshwater hosing experiments.</p>
+  <p>Antarctic ice sheet response to climate forcing</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/phd.jpg" class="team-photo">
   <div class="team-name">Kyle Clem</div>
   <div class="team-role">Meteorology</div>
-  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+  <p>Atmospheric dynamics; tropical-polar teleconnections</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/phd.jpg" class="team-photo">
   <div class="team-name">Rene van Westen</div>
   <div class="team-role">Climate physics</div>
-  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+  <p>Climate dynamics; AMOC specialist</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/phd.jpg" class="team-photo">
   <div class="team-name">Stefan Jendersie</div>
-  <div class="team-role">PhD Candidate</div>
-  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+  <div class="team-role">Ocean modelling</div>
+  <p>Physics based ocean modelling; Southern Ocean dynamics</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/phd.jpg" class="team-photo">
   <div class="team-name">Vacancy</div>
   <div class="team-role">PhD Candidate</div>
-  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+  <p>TBC</p>
 </div>
 
 <div class="team-card">
   <img src="/assets/images/team/phd.jpg" class="team-photo">
   <div class="team-name">Vacancy</div>
   <div class="team-role">PhD Candidate</div>
-  <p>Developing proxy-based reconstructions of SH subtropical climate variability.</p>
+  <p>TBC</p>
 </div>
 
 
