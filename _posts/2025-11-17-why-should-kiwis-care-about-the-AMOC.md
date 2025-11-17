@@ -17,14 +17,8 @@ At present, ocean circulation patterns transfer a large volume of heat from the 
 
 From this fact, we may then predict that a slowdown of AMOC would cause warming in the south, including New Zealand. And that is largely what is predicted by computer models and shown in ice core records of past climate change.
 
-However the connections do not stop there. Addition of heat to the Southern Ocean reduces seasonal sea ice extent, which means more sunlight is absorbed by the now-darker ocean water, further reinforcing the warming around Antarctica. Changes in the surface temperature gradients also cause the mid-latitude westerly winds to shif southwards. As these are a key driver of New Zealand's weather and local ocean circulation, the regional climate is further impacted.
+However the connections do not stop there. Addition of heat to the Southern Ocean reduces seasonal sea ice extent, which means more sunlight is absorbed by the now-darker ocean water, further reinforcing the warming around Antarctica. Changes in the surface temperature gradients also cause the mid-latitude westerly winds to shift southwards. [As these are a key driver of New Zealand's weather and local ocean circulation, the regional climate is further impacted.](https://theconversation.com/weakening-or-collapse-of-a-major-atlantic-current-has-disrupted-nzs-climate-in-the-past-and-could-do-so-again-231266)
 
-The exact nature of these changes (e.g. how much warming, how fast?) are uncertain. Resolving such uncertainties is a key aim of our project.
-
-
-
-<p align="center">
-  <img src="{{ '/assets/images/scales.png' | relative_url }}" width="200">
-</p>
+The exact nature of these changes (e.g. how much warming, how fast?) are uncertain. Resolving such uncertainties is a key aim of [our project](about.md).
 
 
